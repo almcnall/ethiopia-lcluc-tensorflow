@@ -1,3 +1,5 @@
+# Getting Started
+
 # Ethiopia LCLUC
 
 Ethiopia LCLUC using WorldView imagery
